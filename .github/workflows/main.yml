@@ -10,5 +10,9 @@ jobs:
     steps:
       - name: Print a welcome message
         run: echo "Welcome to github actins workflow"
+      - name: Checkout Repository
+        uses: actions/checkout@v4.2.2
+      - name: List Repo files
+        run: ls -la
     
   
