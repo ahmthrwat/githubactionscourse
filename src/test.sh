@@ -1,2 +1,2 @@
-EXPECTED_OUTPUT="Hello, Alice!\nGoodbye, Alice!"
 #!/bin/bash
+EXPECTED_OUTPUT="Hello, Alice!\nGoodbye, Alice!"
