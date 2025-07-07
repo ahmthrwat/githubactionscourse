@@ -9,3 +9,4 @@ module.exports = {
     greet: greet,
     farewell: farewell
 };
+// This module exports two functions: greet and farewell.
